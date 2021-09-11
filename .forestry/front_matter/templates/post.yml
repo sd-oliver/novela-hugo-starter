@@ -34,7 +34,7 @@ fields:
 - name: weblink
   type: text
   config:
-    required: false
+    required: true
   label: weblink
 - name: hero
   type: file
